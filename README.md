@@ -1,4 +1,4 @@
-# Password-Reminder
+# Active Directory Password Reminder
 This script is designed to be set up as a scheduled task on a server within an Active Directory environment.
 It searches the Active Directory for users and sends email reminders to those whose passwords will expire in 3, 7, or 14 days.
 
